@@ -1,2 +1,2 @@
 
-print("Whatsup world")
+print("GGs world")
